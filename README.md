@@ -1,6 +1,6 @@
 # Model Training And Evaluation
 
-Train models on the synthetic dataset on evaluate them.
+Train models on the synthetic dataset and evaluate them.
 
 ## Getting Started
 
