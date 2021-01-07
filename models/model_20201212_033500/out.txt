@@ -1,0 +1,121 @@
+Epoch 0/29
+----------
+train Loss: 4380.7243
+val Loss: 2052.8226
+Epoch 1/29
+----------
+train Loss: 1774.9642
+val Loss: 1419.2507
+Epoch 2/29
+----------
+train Loss: 1352.5709
+val Loss: 1088.8967
+Epoch 3/29
+----------
+train Loss: 1095.8470
+val Loss: 1069.6435
+Epoch 4/29
+----------
+train Loss: 900.1899
+val Loss: 758.5341
+Epoch 5/29
+----------
+train Loss: 772.4405
+val Loss: 674.7356
+Epoch 6/29
+----------
+train Loss: 672.6243
+val Loss: 591.2526
+Epoch 7/29
+----------
+train Loss: 575.3574
+val Loss: 526.9778
+Epoch 8/29
+----------
+train Loss: 507.6737
+val Loss: 488.4398
+Epoch 9/29
+----------
+train Loss: 453.6979
+val Loss: 399.0363
+Epoch 10/29
+----------
+train Loss: 410.6260
+val Loss: 388.4062
+Epoch 11/29
+----------
+train Loss: 370.6842
+val Loss: 325.1855
+Epoch 12/29
+----------
+train Loss: 338.0713
+val Loss: 322.9524
+Epoch 13/29
+----------
+train Loss: 306.5227
+val Loss: 300.4403
+Epoch 14/29
+----------
+train Loss: 284.1043
+val Loss: 277.3707
+Epoch 15/29
+----------
+train Loss: 259.0621
+val Loss: 253.0290
+Epoch 16/29
+----------
+train Loss: 237.6732
+val Loss: 234.8042
+Epoch 17/29
+----------
+train Loss: 224.6610
+val Loss: 229.9631
+Epoch 18/29
+----------
+train Loss: 203.8418
+val Loss: 207.8374
+Epoch 19/29
+----------
+train Loss: 188.3910
+val Loss: 203.8717
+Epoch 20/29
+----------
+train Loss: 175.2907
+val Loss: 197.6286
+Epoch 21/29
+----------
+train Loss: 167.7792
+val Loss: 200.1759
+Epoch 22/29
+----------
+train Loss: 155.2533
+val Loss: 184.3747
+Epoch 23/29
+----------
+train Loss: 145.7391
+val Loss: 182.4822
+Epoch 24/29
+----------
+train Loss: 137.9804
+val Loss: 171.1983
+Epoch 25/29
+----------
+train Loss: 129.0175
+val Loss: 172.2031
+Epoch 26/29
+----------
+train Loss: 122.1865
+val Loss: 166.8507
+Epoch 27/29
+----------
+train Loss: 118.1469
+val Loss: 163.0478
+Epoch 28/29
+----------
+train Loss: 112.8765
+val Loss: 157.1138
+Epoch 29/29
+----------
+train Loss: 107.6357
+val Loss: 154.3723
+Training complete in 2026m 44s

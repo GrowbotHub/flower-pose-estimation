@@ -1,0 +1,161 @@
+Epoch 0/39
+----------
+train Loss: 3777.2795
+val Loss: 2062.4694
+Epoch 1/39
+----------
+train Loss: 1655.7134
+val Loss: 1233.9941
+Epoch 2/39
+----------
+train Loss: 1248.5265
+val Loss: 1080.4722
+Epoch 3/39
+----------
+train Loss: 1005.0115
+val Loss: 955.7047
+Epoch 4/39
+----------
+train Loss: 839.9915
+val Loss: 811.0344
+Epoch 5/39
+----------
+train Loss: 721.1315
+val Loss: 689.0303
+Epoch 6/39
+----------
+train Loss: 610.3277
+val Loss: 539.5037
+Epoch 7/39
+----------
+train Loss: 541.2268
+val Loss: 526.7761
+Epoch 8/39
+----------
+train Loss: 475.8043
+val Loss: 680.1320
+Epoch 9/39
+----------
+train Loss: 422.0628
+val Loss: 394.6627
+Epoch 10/39
+----------
+train Loss: 360.6775
+val Loss: 370.1820
+Epoch 11/39
+----------
+train Loss: 336.1819
+val Loss: 335.1444
+Epoch 12/39
+----------
+train Loss: 304.2934
+val Loss: 310.4738
+Epoch 13/39
+----------
+train Loss: 273.9351
+val Loss: 294.9634
+Epoch 14/39
+----------
+train Loss: 249.3621
+val Loss: 246.1594
+Epoch 15/39
+----------
+train Loss: 234.1861
+val Loss: 243.1619
+Epoch 16/39
+----------
+train Loss: 216.0232
+val Loss: 216.3143
+Epoch 17/39
+----------
+train Loss: 197.1597
+val Loss: 214.4483
+Epoch 18/39
+----------
+train Loss: 184.1789
+val Loss: 198.0343
+Epoch 19/39
+----------
+train Loss: 167.2674
+val Loss: 187.6559
+Epoch 20/39
+----------
+train Loss: 153.8641
+val Loss: 181.0858
+Epoch 21/39
+----------
+train Loss: 145.0727
+val Loss: 171.4276
+Epoch 22/39
+----------
+train Loss: 135.1644
+val Loss: 158.5484
+Epoch 23/39
+----------
+train Loss: 126.5034
+val Loss: 155.9318
+Epoch 24/39
+----------
+train Loss: 120.5168
+val Loss: 150.7431
+Epoch 25/39
+----------
+train Loss: 117.3552
+val Loss: 144.3226
+Epoch 26/39
+----------
+train Loss: 111.2400
+val Loss: 139.0011
+Epoch 27/39
+----------
+train Loss: 107.0966
+val Loss: 137.7693
+Epoch 28/39
+----------
+train Loss: 102.2245
+val Loss: 131.5817
+Epoch 29/39
+----------
+train Loss: 99.0518
+val Loss: 131.8595
+Epoch 30/39
+----------
+train Loss: 97.5332
+val Loss: 132.3549
+Epoch 31/39
+----------
+train Loss: 97.4075
+val Loss: 130.6255
+Epoch 32/39
+----------
+train Loss: 92.6511
+val Loss: 127.8502
+Epoch 33/39
+----------
+train Loss: 91.9432
+val Loss: 125.4638
+Epoch 34/39
+----------
+train Loss: 89.9150
+val Loss: 122.7112
+Epoch 35/39
+----------
+train Loss: 87.9589
+val Loss: 121.1819
+Epoch 36/39
+----------
+train Loss: 86.8400
+val Loss: 122.5918
+Epoch 37/39
+----------
+train Loss: 85.7300
+val Loss: 127.1726
+Epoch 38/39
+----------
+train Loss: 84.4852
+val Loss: 120.2247
+Epoch 39/39
+----------
+train Loss: 83.4519
+val Loss: 118.2342
+Training complete in 3852m 34s

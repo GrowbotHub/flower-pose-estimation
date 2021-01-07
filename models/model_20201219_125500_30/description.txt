@@ -1,0 +1,11 @@
+ModelID:13
+Net:ResNet18,1FC,16outputs
+FinalActivationFunction:None
+Loss:ClosestQuadSymmetryMSE
+BatchSize:19
+DataSet:65574(Pure)
+Split(Tr,V,Te):0.8,0.1,0.1
+Seed:123
+Epochs:30
+Normalization:No
+Rotation:No

@@ -1,0 +1,121 @@
+Epoch 0/29
+----------
+train Loss: 6670.1653
+val Loss: 4106.6974
+Epoch 1/29
+----------
+train Loss: 3550.3914
+val Loss: 2729.5613
+Epoch 2/29
+----------
+train Loss: 2491.6659
+val Loss: 1961.5236
+Epoch 3/29
+----------
+train Loss: 1962.9463
+val Loss: 2071.0186
+Epoch 4/29
+----------
+train Loss: 1631.7055
+val Loss: 1492.7292
+Epoch 5/29
+----------
+train Loss: 1356.5313
+val Loss: 1407.8503
+Epoch 6/29
+----------
+train Loss: 1149.3850
+val Loss: 1007.1686
+Epoch 7/29
+----------
+train Loss: 968.8013
+val Loss: 874.8236
+Epoch 8/29
+----------
+train Loss: 822.3651
+val Loss: 725.2571
+Epoch 9/29
+----------
+train Loss: 718.0018
+val Loss: 665.5995
+Epoch 10/29
+----------
+train Loss: 617.1007
+val Loss: 542.1907
+Epoch 11/29
+----------
+train Loss: 534.0874
+val Loss: 519.8523
+Epoch 12/29
+----------
+train Loss: 466.4118
+val Loss: 547.4042
+Epoch 13/29
+----------
+train Loss: 414.0565
+val Loss: 416.7616
+Epoch 14/29
+----------
+train Loss: 351.8505
+val Loss: 365.2253
+Epoch 15/29
+----------
+train Loss: 309.0888
+val Loss: 314.1359
+Epoch 16/29
+----------
+train Loss: 260.1983
+val Loss: 333.3411
+Epoch 17/29
+----------
+train Loss: 227.9194
+val Loss: 279.5264
+Epoch 18/29
+----------
+train Loss: 197.9390
+val Loss: 256.6899
+Epoch 19/29
+----------
+train Loss: 171.2957
+val Loss: 245.4441
+Epoch 20/29
+----------
+train Loss: 153.3613
+val Loss: 250.7616
+Epoch 21/29
+----------
+train Loss: 144.5140
+val Loss: 234.0006
+Epoch 22/29
+----------
+train Loss: 124.7674
+val Loss: 214.8010
+Epoch 23/29
+----------
+train Loss: 116.6905
+val Loss: 242.2301
+Epoch 24/29
+----------
+train Loss: 107.8294
+val Loss: 203.7531
+Epoch 25/29
+----------
+train Loss: 97.3901
+val Loss: 201.1381
+Epoch 26/29
+----------
+train Loss: 89.4442
+val Loss: 195.1515
+Epoch 27/29
+----------
+train Loss: 84.1437
+val Loss: 179.8232
+Epoch 28/29
+----------
+train Loss: 79.0562
+val Loss: 181.6263
+Epoch 29/29
+----------
+train Loss: 74.2364
+val Loss: 179.6959
+Training complete in 1773m 47s

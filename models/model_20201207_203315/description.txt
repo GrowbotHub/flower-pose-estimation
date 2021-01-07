@@ -1,0 +1,11 @@
+ModelID:6
+Net:ResNet34,1FC,16outputs
+FinalActivationFunction:None
+Loss:ClosestOctagonSymmetryMSE
+BatchSize:19
+DataSet:65574(Pure)
+Split(Tr,V,Te):0.8,0.1,0.1
+Seed:123
+Epochs:40
+Normalization:No
+Rotation:No
